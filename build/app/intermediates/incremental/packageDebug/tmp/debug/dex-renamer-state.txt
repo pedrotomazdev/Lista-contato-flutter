@@ -1,4 +1,4 @@
-#Mon Jan 17 20:11:26 BRT 2022
+#Wed Jan 19 19:41:30 BRT 2022
 base.0=C\:\\Users\\Fekakinot\\Documents\\flutter\\newbytebank\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
