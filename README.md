@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<div align="center">
+    <img  src="https://github.com/pedrotomazdev/Lista-contato-flutter/blob/main/images/apk_demonstracao.gif?raw=true" />
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
